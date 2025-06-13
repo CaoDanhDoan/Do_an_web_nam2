@@ -1,4 +1,4 @@
-# ⌚ Website Bán Đồng Hồ - Đồ Án Cuối Kỳ Năm 2
+# ⌚ Website Bán Đồng Hồ 
 
 ## 📘 Mô tả dự án
 
