@@ -2,7 +2,7 @@
 
 ## 📘 Mô tả dự án
 
-Website bán đồng hồ là một ứng dụng web được phát triển nhằm mục đích mô phỏng một cửa hàng thương mại điện tử chuyên về đồng hồ. Dự án được thực hiện như một phần của đồ án cuối kỳ năm 2, giúp sinh viên làm quen với quy trình xây dựng website từ frontend đến backend.
+Website bán đồng hồ là một ứng dụng web được phát triển nhằm mục đích mô phỏng một cửa hàng thương mại điện tử chuyên về đồng hồ. Dự án được thực hiện giúp làm quen với quy trình xây dựng website từ frontend đến backend.
 
 Người dùng có thể đăng ký tài khoản, đăng nhập, tìm kiếm và đặt mua sản phẩm, trong khi quản trị viên có thể thêm/sửa/xoá sản phẩm và quản lý đơn hàng.
 
