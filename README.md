@@ -37,4 +37,8 @@ Người dùng có thể đăng ký tài khoản, đăng nhập, tìm kiếm và
 - Quản lý danh mục sản phẩm
 - Quản lý đơn hàng và người dùng
 
----
+## 📷 Hình ảnh minh họa
+![Mô tả ảnh](demo.png)
+![Mô tả ảnh](demo1.png)
+![Mô tả ảnh](demo2.png)
+![Mô tả ảnh](demo3.png)
